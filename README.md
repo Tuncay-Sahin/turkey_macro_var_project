@@ -13,6 +13,8 @@
 
 # Consumer Confidence and Macroeconomic Dynamics in Turkey 
 
+Vector Autoregression (VAR) analysis of Turkish consumer confidence and macroeconomic variables using Python and Statsmodels.
+
 ## Financial Time Series Modernization (V2)
 
 This project extends the original **Financial Time Series Modernization** study.
