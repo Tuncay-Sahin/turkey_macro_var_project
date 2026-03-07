@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Econometrics-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+
+![Econometrics](https://img.shields.io/badge/Econometrics-Time%20Series-green)
+![VAR Model](https://img.shields.io/badge/Model-VAR%20(Vector%20Autoregression)-blue)
+
+![Time Series](https://img.shields.io/badge/Data-Time%20Series-blue)
 
 ---
 
